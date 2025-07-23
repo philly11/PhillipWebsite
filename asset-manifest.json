@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phillipWebsite/static/css/main.2443151f.css",
+    "main.js": "/phillipWebsite/static/js/main.06ea3a71.js",
+    "index.html": "/phillipWebsite/index.html",
+    "main.2443151f.css.map": "/phillipWebsite/static/css/main.2443151f.css.map",
+    "main.06ea3a71.js.map": "/phillipWebsite/static/js/main.06ea3a71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2443151f.css",
+    "static/js/main.06ea3a71.js"
+  ]
+}
