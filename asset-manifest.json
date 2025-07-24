@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/phillipWebsite/static/css/main.d2c49fd0.css",
-    "main.js": "/phillipWebsite/static/js/main.02e2d599.js",
+    "main.js": "/phillipWebsite/static/js/main.66c54a25.js",
     "static/media/git.svg": "/phillipWebsite/static/media/git.4c48a4312cbbeb5b3fa85c1dcfba9d82.svg",
     "static/media/linkedin.svg": "/phillipWebsite/static/media/linkedin.55360248588649774413b88755a72c1e.svg",
     "index.html": "/phillipWebsite/index.html",
@@ -9,10 +9,10 @@
     "static/media/arrowLeftW.svg": "/phillipWebsite/static/media/arrowLeftW.464873a4f75cb2df74a04748bf7fc147.svg",
     "static/media/arrowRightW.svg": "/phillipWebsite/static/media/arrowRightW.cdeec494a077a6a09686ca2e6df65338.svg",
     "main.d2c49fd0.css.map": "/phillipWebsite/static/css/main.d2c49fd0.css.map",
-    "main.02e2d599.js.map": "/phillipWebsite/static/js/main.02e2d599.js.map"
+    "main.66c54a25.js.map": "/phillipWebsite/static/js/main.66c54a25.js.map"
   },
   "entrypoints": [
     "static/css/main.d2c49fd0.css",
-    "static/js/main.02e2d599.js"
+    "static/js/main.66c54a25.js"
   ]
 }
